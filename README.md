@@ -1,0 +1,1 @@
+This repository demonstrates a potential bug in Rust when dealing with raw pointers and mutable references.  The `bug.rs` file shows unsafe code that might lead to undefined behavior. The `bugSolution.rs` demonstrates safer alternative solutions using Rust's memory management features.
